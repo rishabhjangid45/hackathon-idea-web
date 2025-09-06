@@ -1,2 +1,2 @@
 # hackathon-idea-web
-soluton for the hackathon probem statement
+solution for the hackathon probem statement
